@@ -63,7 +63,7 @@ The dashboard provides insights into:
 
 ### Overview Dashboard
 
-![Overview](Images/Page1.png)
+![Overview](images/Page1.png)
 
 ---
 
