@@ -63,7 +63,7 @@ The dashboard provides insights into:
 
 ### Overview Dashboard
 
-![Overview](images/Page1.png)
+![Overview](Call-Center-Analytics-PowerBI/Images/Page1.png)
 
 ---
 
